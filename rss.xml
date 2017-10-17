@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[From My Studio]]></title>
+        <description><![CDATA[From My Studio]]></description>
+        <link>https://thegrid.ai/sharon/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Oct 2017 16:02:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sharon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bronze and Copper]]></title>
+            <description><![CDATA[<h2>Bronze and Copper</h2>]]></description>
+            <link>https://thegrid.ai/sharon/bronze-and-copper/index.html</link>
+            <guid isPermaLink="false">3157ce75-aac6-4b1b-a527-fb5d2a073954</guid>
+            <pubDate>Tue, 17 Oct 2017 15:41:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
