@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-17T16:18:57.426Z'
-datePublished: '2017-10-17T16:18:57.571Z'
+dateModified: '2018-07-19T22:00:58.332Z'
+datePublished: '2018-07-19T22:00:58.555Z'
 title: Paintings
 author: []
 publisher: {}
